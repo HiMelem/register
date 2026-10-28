@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "HiMelem",
+    "email": "dobach171212@gmail.com"
+  },
+  "description": "Nexus AI - BachAI Tri AI",
+  "record": {
+    "A": ["1.1.1.1"]
+  },
+  "proxied": true
+}
