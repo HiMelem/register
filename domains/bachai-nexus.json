@@ -1,11 +1,12 @@
 {
   "owner": {
     "username": "HiMelem",
-    "email": "dobach171212@gmail.com"
+    "email": "dobach17212@gmail.com"
   },
-  "description": "Nexus AI - BachAI Tri AI",
+  "description": "BachAI Labs - AI engineering experiments and local inference projects. Open-source ML portfolio by Do Bach from Pleiku.",
+  "domain": "bachai-nexus",
   "record": {
-    "A": ["1.1.1.1"]
+    "CNAME": "himelem.github.io"
   },
-  "proxied": true
+  "proxied": false
 }
